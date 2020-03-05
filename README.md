@@ -18,6 +18,10 @@ analyzers. The choice of signals on these connectors is based on my current proj
 needs. Obviously, alternative combinations of signals can be achieved by using the
 oscilloscope test points.
 
+### Front 3D render
+
 ![Front](https://github.com/Fliptron/HP_Series_80_I-O_Extender/blob/master/Front.jpg "Front of Extender Card")
+
+### Back 3D render
 
 ![Back](https://github.com/Fliptron/HP_Series_80_I-O_Extender/blob/master/Back.jpg "Back of Extender Card")
