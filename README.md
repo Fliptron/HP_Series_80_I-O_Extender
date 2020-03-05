@@ -13,10 +13,13 @@ boards, this design fits within this requirement.
 
 All the pins from the I/O connector are routed to the extender connector with 0.060"
 traces (1.5 mm). There is an oscilloscope test point for every signal. There are also
-three 10 pin headers (5x2) that are layed out to match the very cheap 8 channel logic
-analyzers. The choice of signals on these connectors is based on my current project
+three 10 pin headers (5x2) that are layed out to match the very cheap 8 channel Logic
+Analyzers. The choice of signals on these connectors is based on my current project
 needs. Obviously, alternative combinations of signals can be achieved by using the
 oscilloscope test points.
+
+The Oscilloscope test points and the Logic Analyzers headers are positioned so that
+even if the extender is in the top slot, all should be accessable.
 
 ### Front 3D render
 
