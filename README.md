@@ -19,3 +19,5 @@ needs. Obviously, alternative combinations of signals can be achieved by using t
 oscilloscope test points.
 
 ![Front](https://github.com/Fliptron/HP_Series_80_I-O_Extender/blob/master/Front.jpg "Front of Extender Card")
+
+![Back](https://github.com/Fliptron/HP_Series_80_I-O_Extender/blob/master/Back.jpg "Back of Extender Card")
