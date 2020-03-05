@@ -17,3 +17,5 @@ three 10 pin headers (5x2) that are layed out to match the very cheap 8 channel 
 analyzers. The choice of signals on these connectors is based on my current project
 needs. Obviously, alternative combinations of signals can be achieved by using the
 oscilloscope test points.
+
+![Front](https://github.com/Fliptron/HP_Series_80_I-O_Extender/edit/master/Front.jpg "Front of Extender Card")
