@@ -1,15 +1,17 @@
 # HP_Series_80_I-O_Extender
+
 I/O Extender card for HP Series 80 computers with Logic Analyzer and Oscilloscope probe points.
 The PCB is designed to fit within the 100mm x 100mm limit of the El-Cheapo PCB vendors.
 
 The extender plugs into an available I/O slot. It is not wide enough to engage the left
 and right sides of the I/O card slot area, and so does not have vertical mechanical
 support. To avoid possible damage to th I/O connector, the board should have suitable
-support underneath to keep the board level.
+support underneath to keep the board level. Holes have been provided on both sides for
+either 3D printed or CNC milled supports.
 
 A primary goal was to keep it cheap, and since several Chinese PCB fab companies have
 fairly good pricing for small quantities of 2 layer, 100 mm x 100 mm (or smaller)
-boards, this design fits within this requirement.
+boards, this design fits within this constraint.
 
 All the pins from the I/O connector are routed to the extender connector with 0.060"
 traces (1.5 mm). There is an oscilloscope test point for every signal. There are also
@@ -28,3 +30,4 @@ even if the extender is in the top slot, all should be accessable.
 ### Back 3D render
 
 ![Back](https://github.com/Fliptron/HP_Series_80_I-O_Extender/blob/master/Back.jpg "Back of Extender Card")
+
