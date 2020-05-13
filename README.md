@@ -41,3 +41,6 @@ can be found here `Documentation <http://www.fliptronics.com/HP-85_IO_Extender/i
 
 ![Back](https://github.com/Fliptron/HP_Series_80_I-O_Extender/blob/master/Back.jpg "Back of Extender Card")
 
+### More images can be found here
+
+[HP-85 I/O Bus Extender](http://www.fliptronics.com/HP-85_IO_Extender/Introduction.html)
