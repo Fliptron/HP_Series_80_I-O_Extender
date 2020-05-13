@@ -30,8 +30,7 @@ problem. The schematic has been updated to reflect the addition, but the gerber
 files have not, since no more board fabs are planned.
 
 Detailed description of the Extender board and how to add the level shifter
-can be found here `Documentation <http://www.fliptronics.com/HP-85_IO_Extender/index.html>`_
-
+can be found here [Documentation](http://www.fliptronics.com/HP-85_IO_Extender/index.html)
 
 ### Front 3D render
 
@@ -41,6 +40,3 @@ can be found here `Documentation <http://www.fliptronics.com/HP-85_IO_Extender/i
 
 ![Back](https://github.com/Fliptron/HP_Series_80_I-O_Extender/blob/master/Back.jpg "Back of Extender Card")
 
-### More images can be found here
-
-[HP-85 I/O Bus Extender](http://www.fliptronics.com/HP-85_IO_Extender/Introduction.html)
