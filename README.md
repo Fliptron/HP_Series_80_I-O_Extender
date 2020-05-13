@@ -23,6 +23,16 @@ oscilloscope test points.
 The Oscilloscope test points and the Logic Analyzers headers are positioned so that
 even if the extender is in the top slot, all should be accessable.
 
+After the initial design and fabrication of PCBs, it was noticed that the clock
+signals with their 12 volt swin were incompatible with cheap logic analyzers.
+The addition of a level shifter installed *dead bug* style has fixed the
+problem. The schematic has been updated to reflect the addition, but the gerber
+files have not, since no more board fabs are planned.
+
+Detailed description of the Extender board and how to add the level shifter
+can be found here `Documentation <http://www.fliptronics.com/HP-85_IO_Extender/index.html>`_
+
+
 ### Front 3D render
 
 ![Front](https://github.com/Fliptron/HP_Series_80_I-O_Extender/blob/master/Front.jpg "Front of Extender Card")
